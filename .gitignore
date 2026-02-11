@@ -1,4 +1,4 @@
-﻿# Python
+﻿git commit -m "Remove model and venv from repo"# Python
 __pycache__/
 *.py[cod]
 *.pyo
