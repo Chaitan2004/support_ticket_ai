@@ -1,0 +1,48 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Support Ticket AI</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <div class="hero-card">
+          <h1>Support Ticket AI</h1>
+          <p>Classify incoming tickets and flag urgency in seconds.</p>
+        </div>
+      </section>
+
+      <section class="panel">
+        <form method="post" action="/predict" class="form">
+          <label for="ticket" class="label">Paste ticket text</label>
+          <textarea id="ticket" name="text" rows="8" placeholder="Example: Customer cannot access the billing portal after upgrade.">{{ text or "" }}</textarea>
+          <button type="submit">Analyze Ticket</button>
+        </form>
+
+        {% if result %}
+        <div class="result">
+          <div class="result-header">
+            <h2>Prediction</h2>
+            <span class="badge badge-{{ result.urgency | lower }}">{{ result.urgency }} urgency</span>
+          </div>
+          <p class="result-main">{{ result.label }}</p>
+          <div class="result-meta">
+            <div>
+              <span class="meta-label">Confidence</span>
+              <span class="meta-value">{{ "%.2f" | format(result.confidence * 100) }}%</span>
+            </div>
+            <div>
+              <span class="meta-label">Label ID</span>
+              <span class="meta-value">{{ result.label_id }}</span>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      </section>
+
+    </main>
+  </body>
+</html>

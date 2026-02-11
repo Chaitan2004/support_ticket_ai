@@ -1,0 +1,900 @@
+text,label
+API returns 429 rate limit with light usage.,1
+The product feels unfinished.,4
+I was charged for a canceled seat pack.,0
+Need to reset security questions and answers.,2
+"Export tickets to JSONL, Parquet, and XLSX.",3
+Two-way sync with Jira Data Center and Cloud.,3
+Email on file is dead; need to change it.,2
+Compact density mode for wide monitors.,3
+Account lockout timer never counts down.,2
+UI changes every week and slows our workflow.,4
+The billing contact name is wrong on the PDF.,0
+Escalations disappear with no feedback.,4
+SMS codes arrive hours late or not at all.,2
+Email verification link returns token invalid.,2
+The receipt link returns 404.,0
+The login captcha does not load.,1
+Yesterday's outage cost us a client demo.,4
+Accidentally created two profiles; please merge.,2
+Push alerts stopped after updating to iOS 17.4.,1
+Please support Jira integration.,3
+The forgot-password email never arrives.,2
+Slack notifications fire twice per event.,1
+Wait times in the support queue are excessive.,4
+SSO login loops after successful IdP authentication.,2
+Switch my login email to the new corporate address.,2
+Refund promised two weeks ago is still missing.,4
+The new update broke keyboard shortcuts.,1
+Agent workload forecast for the next 7 days.,3
+Features change without notifying admins.,4
+Battery drain spiked after the latest update.,1
+Support Jira Cloud bi-directional sync.,3
+Add our VAT number to future invoices.,0
+Reply editor strips markdown formatting.,1
+The page flickers and loses my draft.,1
+Login says account not found for my email.,2
+The New Ticket modal won't open.,1
+Enable export to JSON.,3
+The reports page times out with a 504 error.,1
+The statement includes a support fee we never agreed to.,0
+Currency flipped from EUR to GBP without notice.,0
+The account recovery form will not submit.,2
+Bulk assign tickets based on tag or queue.,3
+The PDF export is blank.,1
+Timezone keeps reverting to UTC.,2
+The renewal charge is higher than the signed quote.,0
+Payment failed once but you still marked it paid.,0
+Scheduled exports never arrive by email.,1
+Org list empty even though I'm invited.,2
+Can you support a Jira integration?,3
+Reports page throws 504 after 30 seconds.,1
+The invoice currency switched to USD without approval.,0
+My account email has a typo from signup.,2
+Please unlock my account due to suspicious activity.,2
+Dashboard stays blank in Chrome 123 until a hard refresh.,1
+The password rules reject my new password.,2
+The app crashes when I attach a video.,1
+The receipt email went to the wrong address.,0
+The receipt PDF does not show our company name.,0
+Notifications stopped arriving on iOS.,1
+Uploads fail at 60 percent and restart.,1
+No one owns the issue; it's constant hand-offs.,4
+The Mark as solved action does nothing.,1
+"We need an itemized invoice, not summary only.",0
+I never receive the 2FA code by SMS.,2
+Renewal price is higher than the contract we signed.,0
+Session expires every 5 minutes without warning.,1
+"We need quarterly billing, not monthly.",0
+The agent ended the chat without warning.,4
+I'm unable to change the primary email.,2
+Session ends whenever VPN reconnects.,2
+I keep getting signed out after verification.,2
+Downtime alerts never reached our inbox.,4
+"Sales promised price protection, but the rate increased.",0
+We need scheduled downtime banners.,3
+The team invite just spins and will not accept.,2
+"We require the invoice in GBP, not USD.",0
+Password rules reject every combination I try.,2
+Please reissue the invoice with our PO number.,0
+Display name resets after I save edits.,2
+The renewal amount is higher than what sales quoted.,0
+Please remove me from an old company workspace.,2
+The statement period overlaps with the previous bill.,0
+We need a receipt for last month's payment.,0
+The invoice says unpaid but the charge cleared.,0
+Response time percentile charts per queue.,3
+I've waited a week and still no human response.,4
+"Replies feel like canned scripts, not real help.",4
+I'm stuck on pending verification for days.,2
+Prices keep rising while quality drops.,4
+Auto-assign by round-robin within skill groups.,3
+Org list is empty even though I'm invited.,2
+The response time is unacceptable.,4
+The New Ticket modal will not open.,1
+Uploads fail halfway and restart.,1
+Show agent workload forecast for the week.,3
+The report builder fails to save.,1
+Ticket merge action spins forever.,1
+Charge succeeded but access downgraded to free.,0
+Status updates via API never reflect in UI.,1
+I need to export my account data for compliance.,2
+My MFA app lost the token; need reset.,2
+The web app is extremely slow at midday.,1
+The mobile keyboard covers the reply box.,1
+Never received backup codes after enabling MFA.,2
+Saving a draft crashes Android on Pixel 7.,1
+Our receipt is missing the company address.,0
+I want to delete my account permanently.,2
+Account deactivated while billing still charges us.,2
+Custom fields with regex validation and defaults.,3
+We're close to churning because trust is gone.,4
+Invoice number duplicates a prior document.,0
+We're forced to re-open tickets repeatedly.,4
+Add webhooks for ticket status changes.,3
+Inline code loses monospace font on send.,1
+There is a setup fee I never agreed to.,0
+We need a weekly SLA summary report.,3
+My account is locked after too many attempts; please unlock.,2
+Access denied on pages I could view last week.,2
+Please backdate the invoice to the purchase date.,0
+"The SLA claims are marketing fluff, not reality.",4
+You promised a refund and it never arrived.,4
+The UI lags on my MacBook Pro.,1
+Payment cleared yet the account still says overdue.,0
+No straight answer on when you'll fix this.,4
+Renewal date moved earlier; we lose service time.,0
+Localized knowledge base with per-language URLs.,3
+Feels like we're beta testing half-finished features.,4
+We were billed while the account was paused.,0
+Add a mobile home-screen widget with open ticket count.,3
+Need to change the country/region on my profile.,2
+The dashboard loads as a white page.,1
+Your roadmap shifts with no transparency.,4
+Tax was applied even though we provided exemption status.,0
+Assign button does nothing on ticket view.,1
+Kanban view shows empty columns until reload.,1
+Need itemized lines for each user and add-on.,0
+"Shortcuts for assign, macro insert, and send.",3
+The app won't connect over VPN.,1
+Apply our credit memo before the next run.,0
+Please transfer ownership to my teammate.,2
+Account recovery form errors on submit.,2
+I need to merge two accounts under one email.,2
+My account shows the wrong company name.,2
+Upgrading made the product less stable for us.,4
+We want to customize the ticket ID prefix.,3
+Add an exportable audit log for all admin actions.,3
+On-call schedule with pager-style escalation.,3
+Had to chase three times for a basic update.,4
+Features removed without warning.,4
+Webhooks only for comment-created events.,3
+The app drains battery since the last update.,1
+Voice calls cut out after one minute on Wi-Fi.,1
+The billing page shows blank invoices.,0
+Provide OAuth scopes for read-only integrations.,3
+Add SAML JIT provisioning for new users.,3
+Quiet hours toggle to silence notifications.,3
+Company name is wrong on my profile and invoice.,2
+The invite link expired before I accepted it.,2
+Remove a stale workspace linked to my profile.,2
+The mobile keyboard hides the reply box.,1
+Response times fall far short of your SLA.,4
+Please add an in-app changelog.,3
+I need a W-9 and bank details for our vendor file.,0
+My profile name won't edit.,2
+Profile name won't stick after editing.,2
+Role dropped from admin to viewer without change request.,2
+Remove me from a former employer's workspace.,2
+Knowledge base articles conflict with each other.,4
+Allow scheduled reports via email.,3
+Mobile keyboard covers the reply text area.,1
+Still getting promo emails after opting out.,4
+Profile name edit won't persist.,2
+We were billed while the subscription was paused.,0
+Voice note playback never starts on desktop.,1
+Forgot my username; can't finish password reset.,2
+Chat session ended without warning mid-issue.,4
+There are three micro-charges for card verification.,0
+Notifications spam us despite turning them off.,4
+I had to chase three times to get a simple answer.,4
+We want a mobile widget for open tickets.,3
+The web app is very slow around noon.,1
+I lost work because of your downtime.,4
+iOS app ignores system font scaling.,1
+The login page keeps looping back.,1
+Can't revoke an old device in security settings.,2
+CSV export completes but the file is empty.,1
+AI reply suggestions that respect tone presets.,3
+Hours lost because your fix introduced another bug.,4
+Pin critical tickets to the top of views.,3
+Why is there a foreign transaction fee on this charge?,0
+Chat widget fails to open on Safari 17.,1
+Presence shows offline while connected.,1
+Disable 2FA temporarily so I can log in.,2
+Pending verification email never arrives.,2
+We were billed for 25 seats but have 18.,0
+Product quality has visibly regressed.,4
+The chat agent ended the session without warning.,4
+Attach voice notes directly in the ticket.,3
+Three follow-ups needed before anyone acts.,4
+The billing address update will not save.,0
+I need a copy of the W-9 for vendor setup.,0
+Webhooks for SLA breached and approaching events.,3
+App asks for captcha on every page load.,2
+Keyboard shortcuts stopped working.,1
+Notifications arrive hours late.,1
+The ticket got closed with no resolution.,4
+I need a receipt for last month's payment.,0
+I need a corrected invoice for accounting.,0
+We want to pin important tickets.,3
+Why was my card charged at 3 AM?,0
+Search returns empty results for known ticket IDs.,1
+Dashboard widgets show no data.,1
+Exportable audit log with IP and user agent.,3
+Inline code snippets lose monospace styling.,1
+Temporarily disable MFA so I can get back in.,2
+We need the invoice reissued with our PO number.,0
+You billed us for SMS credits we didn't consume.,0
+Incident alerts arrive hours late.,4
+OAuth scopes limited to read-only analytics.,3
+I had to chase support for basic answers.,4
+My timezone update won't save.,2
+Help center links are broken throughout.,4
+The web app crashes when I open reports.,1
+Send automatic reminders for overdue tickets.,3
+My display name reverts after saving.,2
+The payment went through but access was cut off.,0
+AI summary sometimes replaces my draft text.,1
+Teams adaptive card notifications with actions.,3
+Article images fail to render on slow networks.,1
+My card is expiring; how do I update without downtime?,0
+The invoice PDF is missing our company address.,0
+My session expires immediately after login.,1
+I shouldn't have to beg for basic support.,4
+Overall support experience has been terrible.,4
+The new update broke features we rely on.,4
+My MFA app lost the token; please reset.,2
+CSAT trends by customer segment over time.,3
+The billing portal won't load our invoices.,0
+Your outages cost us a full day of work.,4
+Service went down twice today during peak hours.,4
+CSV exports complete but download empty files.,1
+Let customers see a public status page inside the portal.,3
+My account is stuck in a verification loop.,2
+I want to delete my account and purge personal data.,2
+Security questions get brushed off casually.,4
+Add a compact density mode for power users.,3
+The invoice number on the PDF is wrong.,0
+Need to rotate all API tokens for my user.,2
+Cost center code missing on the invoice.,0
+The UI is confusing and slows my team down.,4
+Chat widget will not open in Safari private windows.,1
+An outage yesterday cost our team a full workday.,4
+Docs are outdated and contradict the product.,4
+Search filters reset after each query.,1
+Pending invites can't be cancelled.,2
+Allow custom fields with validation rules.,3
+Link previews in tickets no longer render.,1
+Invoice lists 60 seats but we only have 34 users.,0
+The dashboard loads as a white page on Chrome.,1
+I'm frustrated that this bug is still open.,4
+The comment box will not accept emojis.,1
+The billing cycle should align to the first of each month.,0
+Account suspended without any warning.,2
+The file uploader rejects PNG files.,1
+Email replies create duplicate tickets in queue.,1
+Saving a draft crashes the Android build 1.4.2.,1
+Support keeps closing my ticket without fixing it.,4
+Read-only compliance role with export rights.,3
+Weekly SLA breach digest grouped by queue.,3
+Keyboard shortcuts stopped working on Windows.,1
+Please resend the invoice to finance for April.,0
+The report builder fails to save changes.,1
+Define custom SLA policies per customer account.,3
+Totals include a processing fee not in our contract.,0
+The plan price on the invoice is incorrect.,0
+New ticket modal spins forever after click.,1
+I created two profiles by mistake; merge them.,2
+Support misses scheduled call-backs repeatedly.,4
+The receipt PDF is missing our company name.,0
+Per-brand email templates and logos.,3
+The export button disappeared after the update.,1
+Your phone agent was dismissive and unhelpful.,4
+The account lockout timer never resets.,2
+The login page loops back to itself.,1
+Login says account not found but I'm a paying user.,2
+Cannot enable two-factor; toggle errors out.,2
+Bulk select checkboxes do not respond.,1
+Sandbox environment mirroring production schema.,3
+The service is unreliable during peak hours.,4
+Consent screen shows on every login.,2
+Knowledge base articles contradict each other.,4
+My payment failed but my bank shows it went through.,0
+Transfer workspace ownership to another admin.,2
+CSV export finishes but downloads an empty file.,1
+Duplicate organizations appear under my profile.,2
+Nobody gives a straight answer about timelines.,4
+CSV import mapping to custom fields and tags.,3
+Please reissue the invoice with our PO number on it.,0
+"Email verification link returns ""token invalid"".",2
+Today's tickets vanish until I refresh.,1
+Lost admin role; now only have viewer access.,2
+The product doesn't match your promises.,4
+Password rules reject strong passwords I try.,2
+Response times are nowhere near the SLA you sell.,4
+I'm stuck on the consent screen after login.,2
+I'm still getting marketing emails after opting out.,4
+Provide a weekly SLA breach summary by team.,3
+Customer portal search with synonyms support.,3
+My bank transfer has been pending for days.,0
+Bulk select checkboxes don't toggle.,1
+Dashboard charts show all zeros.,1
+The password rules won't accept my new password.,2
+Allow filtering by multiple tags.,3
+Expose a ticket export endpoint with pagination.,3
+Can't remove a departed admin from the org.,2
+SAML JIT plus SCIM provisioning for users.,3
+The charge descriptor on the bank statement is incorrect.,0
+The invoice lists the wrong plan tier and price.,0
+Your system charged the old card on file.,0
+The billing address update won't save.,0
+Our nonprofit discount is not reflected.,0
+The login field is case-sensitive and fails.,2
+Spellcheck underline hides text in the composer.,1
+I'm disappointed by the lack of communication.,4
+Support closes my ticket without fixing it.,4
+The invoice link says expired.,0
+Reports page times out with a 504 after 20 seconds.,1
+It shouldn't take three follow-ups to get action.,4
+I'm tired of repeating the issue to new agents.,4
+Allow exporting attachments with tickets.,3
+Page flickers and loses draft reply when autosaving.,1
+Mentions don't ping the tagged agent.,1
+I need to speak with a manager.,4
+Refund process is slow and opaque.,4
+We were billed after canceling on the 15th.,0
+Please remove the add-on charge; we never enabled it.,0
+The API returns 500 errors for ticket search.,1
+Add a built-in changelog panel for users.,3
+"Your charge shows as ""pending"" for three days.",0
+Android push opens the wrong ticket when tapped.,1
+I'm locked out after changing my email.,2
+Attachment downloads fail every time.,1
+We were charged during the free trial.,0
+Support custom ticket ID prefixes per brand.,3
+The system says my email is already in use.,2
+No one owns the issue; constant hand-offs.,4
+Add a merge tickets tool.,3
+We need the invoice reissued with our new legal entity.,0
+Add quick actions on hover in the ticket list.,3
+Add role-based permissions for billing.,3
+The chat agent disappeared mid-conversation.,4
+The invoice shows 12 months but we are monthly.,0
+The app hangs on the splash screen after login.,1
+Your portal shows blank when opening past invoices.,0
+Add a follow feature for ticket updates.,3
+Safari prompts a JSON download on login.,1
+Updated terms button is disabled for me.,2
+Create an approval workflow for issuing refunds.,3
+Support portal times out when adding comments.,4
+Notifications are delayed by hours.,1
+Add webhooks for status changes.,3
+Embedded public status page for end users.,3
+The renewal amount is higher than the contract price.,0
+Invoice download link returns 404.,0
+Your fix introduced another bug that cost hours.,4
+The dashboard shows a blank screen on Chrome.,1
+Round-robin assignment within time windows.,3
+The invoice says 12 months but we are monthly.,0
+Images in articles fail to load intermittently.,1
+The app freezes on the loading screen after login.,1
+Typing indicator shows the wrong agent name.,1
+Allow CSV import that maps to custom fields.,3
+Pages I used to access now deny permission.,2
+I regret upgrading; the product is unstable now.,4
+Typing lags heavily after 200 characters.,1
+Seeing duplicate organizations under my profile.,2
+The payment failed but you still marked it paid.,0
+We need W-9 and bank info to release payment.,0
+Searching ticket IDs returns no matches.,1
+CSV export downloads a file with only headers.,1
+Pinned filters disappear after refresh.,1
+Ticket export API with incremental cursors.,3
+Mobile app crashes daily with no resolution.,4
+Status page said green during a clear outage.,4
+Profile photo upload never saves.,2
+The billing address update keeps reverting.,0
+We were billed for two months at once by mistake.,0
+We want a compact list view.,3
+Duplicate invites keep hitting my inbox.,2
+My statement shows several small test charges.,0
+The ticket list duplicates items.,1
+The discount code was accepted but not applied.,0
+Let us filter by multiple tags.,3
+I never receive the 2FA code on my phone.,2
+I was charged during the free trial period.,0
+File uploads freeze at 68% then restart.,1
+Allow following a ticket for internal watchers.,3
+Stuck on pending verification for three days.,2
+Assign button clicks but never assigns.,1
+We need a copy of the W-9 for vendor onboarding.,0
+The last fix broke something else.,4
+VPN connections log me out instantly.,1
+Product doesn't match what sales promised.,4
+The invite link expired before I could accept.,2
+Locked out after changing my email address.,2
+Please provide a public status page.,3
+Compliance questions answered with canned text.,4
+Chat disconnects mid-session frequently.,4
+I cannot change the primary email.,2
+Attachment previews never load.,1
+No compensation for revenue lost in outage.,4
+The invoice date needs correction for accounting.,0
+I saw a login from a country I do not recognize.,2
+The price changed mid-cycle without notice.,0
+In-app changelog drawer for new features.,3
+Add native Google Calendar integration.,3
+Primary email change is blocked with no reason.,2
+Attaching a video crashes the app.,1
+Image paste creates duplicate attachments.,1
+Update the phone number that receives MFA codes.,2
+I can't get a straight answer from anyone.,4
+Detect and suggest merging duplicate tickets.,3
+VoIP calls stutter and drop after 2 minutes.,1
+The team invite just spins and won't accept.,2
+Time tracking widget resets mid-ticket.,1
+Please resend the invoice to finance@company.com.,0
+We lose customers because your platform is flaky.,4
+My invoice is in USD; we require GBP.,0
+The invoice link says expired when I open it.,0
+Prompted for captcha on every page in the app.,2
+Shift handoff summary for next support team.,3
+Still no root cause for last month's outage.,4
+Please resend the receipt with our VAT ID included.,0
+Please consolidate the US and EU workspaces into one bill.,0
+Change the phone number used for MFA codes.,2
+The account recovery form won't submit.,2
+I shouldn't need to beg for basic support.,4
+The last update made the app worse.,4
+Your system won't accept our PO number.,0
+I forgot my username; the reset flow needs it.,2
+The sign-in page keeps asking for captcha.,2
+The login captcha won't load.,1
+Add auto-assign via round robin.,3
+Invite marked invalid right after creation.,2
+Billing cycle switched to annual without consent.,0
+Billing-only admin role separate from workspace admin.,3
+I can't enable two-factor authentication.,2
+We never received the annual discount promised.,0
+The call quality is tinny and cuts out.,1
+My account was suspended without a reason.,2
+"I need the invoice in EUR, not USD.",0
+The reply editor strips formatting.,1
+Refund process is opaque and slow.,4
+The update installs but the app will not open.,1
+System says this email already exists when inviting me.,2
+The tax amount looks incorrect for our state.,0
+App won't rotate to landscape on tablets.,1
+Custom ticket ID prefixes per brand/site.,3
+Scripts ignore the context we provide.,4
+You send surveys but ignore complaints.,4
+Push notifications stopped on iOS 17.3.,1
+Allow filtering by last reply time.,3
+Please resend the invoice to our finance team.,0
+I get survey emails but no action on my complaints.,4
+We lost customers due to your outages.,4
+Need separate invoices for US and EU entities.,0
+Delete my account and all associated data.,2
+The composer will not paste text.,1
+Release notes miss breaking changes.,4
+My profile name will not edit.,2
+Attachment downloads time out consistently.,1
+Captcha required on every login attempt.,2
+Authenticator app lost the token; need reset.,2
+"I've been patient, but this is too much.",4
+The billing cycle should start on the 1st.,0
+My card expires soon; where do I update it?,0
+Please send a statement of account for Q1.,0
+Beta features were enabled without consent.,4
+The system is too slow to be usable.,4
+"Schedule reports to Slack, Teams, and email.",3
+Tickets marked resolved with nothing fixed.,4
+We want internal notes per ticket.,3
+The receipt PDF is missing our postal address.,0
+The notifications badge never clears.,1
+Add customer satisfaction trends by cohort.,3
+Audio playback will not start.,1
+Dark mode toggle vanished from preferences.,1
+I lost access to admin settings.,2
+Web app logs me out after tab is idle 1 minute.,1
+Billing support never answers the line.,4
+Verification loop keeps sending me back to login.,2
+Please switch this subscription to monthly billing.,0
+Multi-brand portal with custom domains.,3
+Scheduled exports never deliver via email.,1
+Invite link expired before I could accept.,2
+The app will not stay signed in on Android.,1
+Keyboard shortcuts no longer trigger actions.,1
+Add Portuguese and Italian UI localizations.,3
+Agents ask for info already in the ticket.,4
+Schedule reports to Slack channels as well as email.,3
+Phone agent was dismissive and rushed.,4
+Why is there a foreign transaction fee?,0
+We need a report for agent workload.,3
+Images in the knowledge base do not load.,1
+Card on file expired; update flow keeps failing.,0
+The inbox badge count is wrong.,1
+Bulk status change with conditional rules.,3
+Add work hours per agent.,3
+The settings page shows raw JSON.,1
+We were charged for 20 seats but have 14 users.,0
+Support outbound webhooks for new comments only.,3
+Invite marked invalid right after sending.,2
+The Assign button is unresponsive.,1
+Saving a reply crashes the Android app.,1
+I need a list of active sessions for my account.,2
+Overall support experience has been awful.,4
+GraphQL API alongside REST endpoints.,3
+Customizable dashboards with drag/drop cards.,3
+The invoice number duplicates a previous invoice.,0
+Notifications arrive hours late or not at all.,1
+I need audit logs of my login history.,2
+Team invite spinner never completes in the app.,2
+The chat widget won't open in Safari.,1
+Allow custom email templates per brand.,3
+Too much trial-and-error on production data.,4
+API returns 429 even under light usage.,1
+We were billed twice for the same monthly invoice.,0
+I feel stuck and nobody is helping.,4
+Our bank transfer has been pending for five days.,0
+Today's tickets are missing from the queue.,1
+Status dropdown is empty when creating tickets.,1
+Bulk close tickets older than 60 days with one click.,3
+The Assign button does nothing.,1
+Link previews stopped rendering inside tickets.,1
+Your help center articles don't match the product.,4
+I cannot remove an old admin from the workspace.,2
+The report page times out with a 504.,1
+The inbox badge count is incorrect.,1
+I'm tired of re-explaining to new agents.,4
+Role-based shared macro library.,3
+Bulk assign via round-robin by skill group.,3
+Login form rejects uppercase letters in email.,2
+Remove my account from an old company workspace.,2
+The calendar view is empty.,1
+This is the third time I've reported the same issue.,4
+Ticket history events appear out of order.,1
+Update my login email to the new corporate address.,2
+I cannot accept the team invite in the app.,2
+The payment failed but the invoice says paid.,0
+Safari prompts to download a .json file on login.,1
+Allow exporting attachments with ticket data.,3
+Add a shift handoff mode to summarize open work.,3
+Cannot remove a departed admin from the org.,2
+My profile photo won't update.,2
+Add export for chat transcripts.,3
+"Tickets are closed with ""resolved"" but nothing changes.",4
+The system says my email is already registered.,2
+Your service went down twice this morning.,4
+Lost access to the email tied to this login.,2
+Please support RTL languages.,3
+Sign-in form repeatedly asks for captcha even when solved.,2
+Support custom SLAs per customer.,3
+We need OAuth for third-party apps.,3
+"Your portal says unpaid, but we already paid.",0
+Statement period overlaps last month's dates.,0
+Add saved searches to the inbox.,3
+We need a priority queue view.,3
+The proration after upgrade looks incorrect.,0
+The billing portal is blank when I open invoices.,0
+Billing portal times out when downloading invoices.,0
+Add an audit log export option.,3
+Mobile keyboard covers the reply text box on iOS.,1
+Company name on profile is incorrect.,2
+The support queue is too long.,4
+I'm locked out after too many failed logins.,2
+Dashboard charts all show zero values.,1
+The page flickers and loses my draft reply.,1
+Agents keep asking for info already in the ticket.,4
+Add a global snooze/quiet hours toggle.,3
+Support closed my ticket without fixing it.,4
+Need a list of active devices and sessions.,2
+The ticket list shows duplicates randomly.,1
+The agent was rude and unhelpful.,4
+Autosave randomly wipes my reply.,1
+We need a W-9 for vendor onboarding.,0
+Add inline AI suggestions for reply drafts.,3
+Late fee added even though we paid before due date.,0
+Service slows to a crawl every evening.,4
+The coupon was applied but the total did not change.,0
+I cannot enable two-factor authentication.,2
+Invite link expired before I could accept it.,2
+Transfer workspace ownership to a teammate.,2
+Provide a true dark theme across all surfaces.,3
+Please apply our credit balance to the next bill.,0
+Recovery email is gone; need another way to verify.,2
+My urgent P1 was downgraded to normal.,4
+The API returns 500 for ticket search.,1
+Captcha on login never loads the image.,1
+Multiple duplicate invites keep hitting my inbox.,2
+The payment has been pending for four days.,0
+Audio playback of voice notes fails to start.,1
+Audio playback won't start.,1
+We need a sandbox environment.,3
+Replies sound canned and don't solve anything.,4
+Receipt PDF is missing our registered address.,0
+I can't remove an old admin from the workspace.,2
+My session is killed whenever VPN reconnects.,2
+Billing support is impossible to reach.,4
+Add export to PDF.,3
+We were charged for sandboxes we never provisioned.,0
+Web app logs out if tab is backgrounded.,1
+SSO login keeps redirecting in a loop.,2
+Why was my card charged after I cancelled yesterday?,0
+Verification loops back to the login page.,2
+Still waiting on a refund you approved two weeks ago.,4
+Kindly reissue in PDF and CSV for reconciliation.,0
+The invoice date needs to match the service start date.,0
+Your reps aren't trained on the product.,4
+SSO users can't set local passwords when needed.,2
+The receipt link says expired.,0
+Our tax ID is not printed on the invoice.,0
+Upgrade made the platform unstable for us.,4
+Please add a pause notifications toggle.,3
+It's impossible to reach a manager when issues escalate.,4
+Our tax ID is missing from the invoice PDF.,0
+I keep seeing network error.,1
+Provide a sandbox environment linked to production data.,3
+Add a bulk close tool for stale tickets.,3
+The proration after downgrade looks wrong.,0
+The product doesn't meet your promises.,4
+One-time code is sent to an old phone number.,2
+"I need an itemized invoice, not a summary.",0
+Add a snooze ticket feature.,3
+Please remove an old device from trusted devices.,2
+The inbox spins forever on Firefox.,1
+Logged out immediately after passing MFA.,2
+You promised a refund last month and nothing arrived.,4
+The queue times are ridiculous.,4
+Account was deactivated but billing is still active.,2
+Critical bugs keep returning after each release.,4
+I've been waiting days without a response.,4
+Audio calls are choppy and drop out.,1
+The composer won't paste text.,1
+Please consolidate multiple subscriptions into one invoice.,0
+Lockout timer never counts down.,2
+Downtime alerts arrive hours after the incident.,4
+No compensation offered for repeated downtime.,4
+Invoice total doesn't match sales quote.,0
+CSV import rejects valid UTF-8 characters.,1
+Analytics date picker jumps back to 1970.,1
+I was billed for two months in advance by mistake.,0
+We re-open tickets because fixes don't stick.,4
+Reset security questions; I forgot the answers.,2
+Charge posted at 2 a.m. and flagged fraud alerts.,0
+I've waited a week with no reply.,4
+I need a refund for an accidental annual renewal.,0
+Let us create per-brand email templates.,3
+Status page lags reality by hours.,4
+The app drains battery after the last update.,1
+The app freezes when switching tabs.,1
+Please move this subscription back to monthly billing.,0
+Expose GraphQL API in addition to REST.,3
+SSO redirects in a loop after successful IdP login.,2
+Enable RTL layout for Arabic and Hebrew.,3
+Support keeps asking for the same info.,4
+I lost access to admin controls; role changed unexpectedly.,2
+Please remove the old workspace from my profile.,2
+Webhooks are delivered out of order.,1
+Platform is unreliable during traffic spikes.,4
+I was charged for a trial extension I never requested.,0
+We want a mobile widget showing open tickets.,3
+Status dropdown is empty for new tickets.,1
+Bank shows two identical charges for this renewal.,0
+I keep getting bounced between teams.,4
+Add MS Teams adaptive card notifications.,3
+Browser tab notifications for new assignments.,3
+Add role-based billing permissions.,3
+You keep changing features without notice.,4
+I need a refund for a duplicate card charge.,0
+Priority queue view with live countdown timers.,3
+Proration after downgrade seems too high.,0
+Our nonprofit discount isn't reflected.,0
+"Billing email must be ap@company.org, not mine.",0
+Six tickets merged incorrectly and lost detail.,4
+The billing page hangs when I update the card.,0
+We need an approval flow for refunds.,3
+The billing portal shows unpaid though Stripe shows paid.,0
+You broke our workflow with the last change.,4
+Include inline images when exporting ticket history.,3
+Why did my plan switch from monthly to annual?,0
+Latest update broke the features we rely on.,4
+My account was deactivated by mistake.,2
+Your status page said all good but it wasn't.,4
+Why am I paying for an add-on we did not enable?,0
+My account is missing from the org list.,2
+Export button missing in the analytics view.,1
+Login spinner never finishes on the web app.,1
+Tablet app refuses to rotate to landscape.,1
+Battery drain doubled after the latest release.,1
+API search endpoint returns 500 for filter queries.,1
+API search returns 500 when filters are combined.,1
+I need to reset my security questions.,2
+I created two profiles by mistake; please merge.,2
+The invite says invalid even though it's new.,2
+Login form keeps redirecting to itself.,1
+Please issue a refund for the duplicate charge.,0
+Your system charged an expired card on file.,0
+Your system will not accept our PO number.,0
+"Filter by tag, assignee, priority together.",3
+The payment failed but you marked it paid.,0
+Refund approval workflow with two approvers.,3
+Search filters reset after every query.,1
+Uploads fail halfway through and restart.,1
+Can't accept updated terms; button disabled.,2
+The experience has been consistently poor.,4
+Our invoice shows a charge for extra users we never added.,0
+The app will not rotate to landscape.,1
+Today's tickets are missing from the inbox.,1
+Dashboard charts show zeros.,1
+Login says account not found for my correct email.,2
+I saw a login from a country I don't recognize.,2
+Your system charged an old card on file.,0
+I lost access to the email tied to my account.,2
+Mobile widget showing open tickets by priority.,3
+Constant updates disrupt our workflow.,4
+Unlock my account flagged for suspicious activity.,2
+Add a response-time percentile chart per team.,3
+Authenticator app lost codes; need reset.,2
+Tax ID is misspelled on the PDF.,0
+Printable one-page ticket summary for audits.,3
+This experience has been terrible so far.,4
+My recovery email is no longer accessible.,2
+Search returns zero results for known tickets.,1
+Allow importing tickets from CSV.,3
+We upgraded to Pro but billing still shows Basic.,0
+Charge descriptor on statement is incorrect for our books.,0
+A late fee was added even though we paid before due date.,0
+Please support a Jira integration.,3
+The UI is laggy on my MacBook Pro.,1
+We need a credit memo for the overcharge last cycle.,0
+Feels like no one reads the ticket details.,4
+Your updates are too frequent and disruptive.,4
+Platform is unreliable during peak traffic.,4
+We require the invoice in GBP instead of USD.,0
+I forgot my username and cannot sign in.,2
+Remove stale workspace still linked to my profile.,2
+Provide a list of active sessions on my account.,2
+Please add our VAT number before we pay this invoice.,0
+Captcha never loads on the login page.,1
+Please change the billing email to finance@company.com.,0
+I was double charged for the same renewal yesterday.,0
+There is a user fee but we added no new users.,0
+I can't rely on this service anymore.,4
+This experience feels adversarial now.,4
+Your outages cost us a day of work.,4
+We need a weekly SLA report.,3
+SLA claims feel like marketing fluff.,4
+Upload custom notification sounds per user.,3
+Sync is stuck at 60 percent for hours.,1
+The app hangs on the loading spinner after sign-in.,1
+I'm unhappy with the way this was handled.,4
+Our tax ID is printed with a typo on the PDF.,0
+Attachment downloads stall at 0 bytes.,1
+The updated terms button is disabled.,2
+Postmortems are vague and unhelpful.,4
+Feels like we're beta testing unfinished features.,4
+Sales quoted a price that does not match billing.,0
+The ticket page scroll jumps to the top.,1
+Inline images show as broken icons.,1
+Contract promised price lock; rate increased.,0
+Chat disconnects mid-conversation frequently.,4
+I keep getting bounced between departments.,4
+Billed for add-ons that were never enabled.,0
+Call quality is tinny and cuts out.,1
+Tax applied even after we uploaded exemption certificate.,0
+I need to rotate API keys for my account.,2
+Custom branding for all outbound notifications.,3
+Tax rate is using the wrong state rules.,0
+Session drops every few minutes while typing.,1
+Add a bulk close option for stale tickets.,3
+Provide a pause notifications toggle.,3
+Audio calls are choppy and drop.,1
+The invoice shows a late fee we don't recognize.,0
+We were billed for a seat that was removed last week.,0
+Login alert shows a country I've never visited.,2
+I was billed in USD instead of CAD.,0
+We need the billing contact changed to ap@company.com.,0
+Your docs are outdated and conflict with the product.,4
+Please support SAML SSO.,3
+My issue keeps getting reassigned.,4
+We need a consolidated invoice for all workspaces.,0
+Please refund the duplicate ACH pull from last night.,0
+I need to update the phone number for 2FA.,2
+I was charged for an add-on we never enabled.,0
+PDF exports show blank after page one.,1
+SMS verification codes never arrive.,2
+Primary email change is blocked without reason.,2
+Invite links show invalid token.,1
+You change features without notifying admins.,4
+Custom SLA policies per customer or plan.,3
+Charged while the account was paused.,0
+Ticket merge spins forever without completing.,1
+Add a subscribe to updates option.,3
+I'm getting duplicate invites to the same team.,2
+PDF exports are blank.,1
+We need the invoice date corrected for accounting.,0
+Collected logs for you; they were ignored.,4
+I feel like I'm beta testing your releases.,4
+Mobile app caches old avatars and won't refresh.,1
+I need to merge two logins into one organization account.,2
+Dashboard charts show zero despite data in API.,1
+Auto-reminders when customer hasnot replied.,3
+Your pricing keeps increasing without value.,4
+Notifications use the wrong timezone.,2
+Composer spellcheck underline hides text.,1
+Please support Microsoft Teams integration.,3
+Refund the duplicate ACH from last night.,0
+Offer export in JSONL and Parquet formats.,3
+The status dropdown is empty.,1
+The invoice total is higher than the plan price.,0
+Please remove the late fee; we paid on time.,0
+Created two profiles by accident; need merge.,2
+The invoice total doesn't match the contract rate card.,0
+I wasted hours dealing with this issue.,4
+Embedded video calls inside a ticket thread.,3
+The invoice lists the wrong plan tier.,0
+The login field rejects uppercase letters.,1
+The billing email needs to be finance@company.com.,0
+Why did I get two invoices for one period?,0
+Remove an old laptop from my trusted devices.,2
+We need a sandbox environment for testing.,3
+We were billed during the free trial window.,0
+Portal shows unpaid while Stripe shows paid.,0
+Pin tickets to the top of the queue.,3
+This is my third time reporting the same issue.,4
+The plan price changed without notice mid-cycle.,0
+I've waited a week with no response from support.,4
+Please support custom notification sounds.,3
+Invite flow says my email already exists elsewhere.,2
+The update installs but the app won't open.,1
+SMS 2FA codes never arrive to my device.,2
+My account shows duplicate organizations.,2
+I keep getting promotional emails after unsubscribing.,4
+Pagination arrows disappear on small screens.,1
+Your advertised support SLA isn't real.,4
+The statement shows a foreign transaction fee.,0
+Enable custom branding on the login page.,3
+Remove an old device from my trusted list.,2
+The app freezes on the login screen.,1
+Saw a login alert from a country I have never visited.,2
+Your team keeps sending canned responses.,4
+Please add Spanish localization.,3
+The charge description on my statement is unfamiliar.,0
+Chrome requires cache clear to load new release.,1
+Two-factor toggle errors every time I enable it.,2
+The dashboard widgets show no data.,1
+The payment shows pending for four days now.,0
+New Ticket modal never renders after clicking.,1
+My account was suspended without explanation.,2
+We want a customizable dashboard layout.,3
+Autocomplete for tags shows stale options.,1
+Password reset email says token already used.,2
+Fourth time reporting this exact bug.,4
+The tax rate looks wrong for our state.,0
+Your documentation is outdated and misleading.,4
+My card expires soon; where can I update it?,0
+Need audit history of my logins for security.,2
+Allow custom branding for customer-facing emails.,3
+CSV export downloads a zero-byte file.,1
+Backup codes were never provided after enabling MFA.,2
+Add duplicate ticket detection.,3
+Feature removals happen with zero notice.,4
+Engineers roll back fixes without telling us.,4
+Account was suspended without any notice.,2
+Support keeps missing promised call-back times.,4
+Let agents save and share search presets.,3
+Large report exports time out.,1
+The app says offline even on Wi-Fi.,1
+SSO users need a backup password option.,2
+We were charged for an add-on we never enabled.,0
+Why did you bill us after we scheduled a cancellation?,0
+Images in the knowledge base won't load.,1
+Support scripts ignore the context I provide.,4
+Auto-tagging based on keywords and sentiment.,3
+The prorated upgrade is higher than the quoted amount.,0
+"The invoice shows 12 months, but we're monthly.",0
+The interface changes every week and slows us down.,4
+Your notifications spam me daily.,4
+I wasted a day collecting logs you never used.,4
+Send both CSV and PDF copies of the invoice.,0
+The help widget overlaps the footer.,1
+The app won't rotate to landscape.,1
+Display name reverts after saving changes.,2
+We need an approval workflow for refunds.,3
+My urgent P1 was downgraded to low priority.,4
+Too much experimenting on our production data.,4
+Add saved search presets.,3
+SAML sign-in loops when third-party cookies blocked.,1
+We need a multi-language knowledge base.,3

@@ -1,0 +1,226 @@
+text,label
+Security concerns get brushed off.,4
+Consent screen repeats every login.,2
+Charged for sandbox environments we don't use.,0
+I need the billing cycle to start on the 1st.,0
+I feel ignored by your support team.,4
+Need to change country/region on my account.,2
+We were billed after canceling on the 10th.,0
+Snooze tickets until a specific date/time.,3
+Localize the knowledge base by language with fallback.,3
+Search returns zero results for existing tickets.,1
+Please split this invoice across two corporate cards.,0
+Account shows wrong time zone in notifications.,2
+My session expires right after login.,1
+Invoice shows annual term; we requested quarterly.,0
+Mac app doesn't respect proxy settings.,1
+We feel de-prioritized after upgrading plans.,4
+I want a dark mode for the web app.,3
+Settings page renders raw JSON instead of UI.,1
+Outlook add-in fails to authenticate.,1
+We were billed twice for the same invoice.,0
+"Save, share, and pin search views per team.",3
+Backdate the invoice to the service start date.,0
+"Add keyboard shortcuts for assign, reply, and close.",3
+Allow custom fields on tickets.,3
+Service degrades every evening for us.,4
+File uploads stall at 72% and restart.,1
+SMS verification codes arrive hours later or not at all.,2
+My urgent ticket was marked low priority.,4
+Chat bubble overlaps the send button on mobile.,1
+"We need the invoice in EUR, not USD.",0
+This is my fourth report of the same bug.,4
+Please change my login email to a new address.,2
+Add a bulk close option for old tickets.,3
+Fixes get rolled back without notice.,4
+Let us filter by multiple tags and assignees together.,3
+Updates are constant and disruptive to our workflow.,4
+The product doesn't deliver what the sales deck promised.,4
+Outage postmortems are vague and unhelpful.,4
+Your team doesn't read the ticket details.,4
+I'm seeing access denied on pages I used to view.,2
+Mute a ticket thread without leaving the queue.,3
+I need to export all account data.,2
+Draft replies vanish after switching networks.,1
+Hover quick actions (assign/close/note) in list.,3
+Add hover quick actions in the ticket list.,3
+I need a list of active sessions.,2
+Please unlock my account; it says suspicious activity.,2
+Please add a read-only auditor role.,3
+One-time login code goes to someone else's phone.,2
+Team invite spinner never completes on mobile.,2
+Verification keeps looping back to login.,2
+The app logs me out every few minutes.,1
+The onboarding was chaotic and confusing.,4
+Inline thumbnails show broken icons.,1
+Download links produce 403 for attached PDFs.,1
+Escalation promised yesterday never came.,4
+There are three small test charges on my card.,0
+Why are micro test charges still pending?,0
+Require a full export of my account data.,2
+VPN connections cause immediate disconnect.,1
+Please update my login email to a new address.,2
+Allow bulk assignment by tag.,3
+We need export to JSON.,3
+Reply editor strips bold/italic formatting.,1
+Verification keeps looping me back to the sign-in page.,2
+The invoice shows annual; we requested quarterly.,0
+Download links return 403 for PDFs.,1
+My profile photo will not update.,2
+Why is my renewal higher than last year?,0
+Your team keeps missing promised deadlines.,4
+Billing support never answers or calls back.,4
+Add keyboard shortcuts for navigation.,3
+Follow a ticket to receive internal updates.,3
+I forgot my username and can't sign in.,2
+The app won't stay signed in on Android.,1
+Forgot-password email never arrives.,2
+The inbox loads forever on Firefox.,1
+Live chat bubble overlaps the send button.,1
+The VAT number is missing from the invoice PDF.,0
+Dashboard loads blank on Chrome 122 in incognito.,1
+The agent was rude on the phone.,4
+Attaching MOV files crashes the client.,1
+Our patience is gone; this feels hostile.,4
+Add a response time analytics chart.,3
+Nonprofit discount vanished on this cycle.,0
+Role changed from admin to agent unexpectedly.,2
+The proration after downgrade shows a negative credit.,0
+We're considering leaving because trust is gone.,4
+Please refund the duplicate payment from yesterday.,0
+Add Dutch and Korean localizations.,3
+Add a bulk close action for tickets older than 90 days.,3
+The receipt shows no VAT even though we are in the EU.,0
+Need the invoice in CAD instead of USD for audit.,0
+The plan price changed mid-cycle without notice.,0
+Pending invitations cannot be cancelled.,2
+Can you split payment across two cards?,0
+Notifications spam us daily despite settings.,4
+We need a report on ticket reopen rates.,3
+The refund you promised hasn't posted.,0
+We were billed for 50 seats but only have 30 active users.,0
+We were charged for a seat we never activated.,0
+Scrolling jumps back to top of ticket list.,1
+Impossible to reach a manager to escalate.,4
+Audio calls are choppy and disconnect.,1
+Your pricing keeps increasing without added value.,4
+Please add custom fields to tickets.,3
+I still get marketing emails after opting out.,4
+Provide an on-call schedule with escalation rules.,3
+I need to change the phone number for 2FA.,2
+No credit offered after repeated downtime.,4
+I want to delete my account completely.,2
+Screen reader announces buttons with no labels.,1
+Offer a printable ticket summary view.,3
+A setup fee appeared even though we're existing customers.,0
+We were billed in GBP; contract specifies CAD.,0
+Forgot-password email is never delivered.,2
+Escalations vanish without feedback.,4
+Inbox spinner never ends on Firefox ESR.,1
+The login code goes to the wrong phone.,2
+"Fire webhooks on status, priority, and assignee changes.",3
+Please shift our renewal date to the first of next month.,0
+Provide a priority queue view with SLA timers.,3
+Unlock my account flagged for suspicious login.,2
+Remove an old phone from trusted devices list.,2
+Timezone change keeps reverting to UTC.,2
+I shouldn't have to contact you three times.,4
+Your service went down twice today.,4
+Mark as solved does nothing.,1
+Login form loops back with no error message.,1
+We need separate invoices per department cost center.,0
+Invoice numbers are out of sequence for us.,0
+The billing address update fails every time.,0
+Can you split this charge across two cards?,0
+My role changed from admin to viewer.,2
+My timezone update will not save.,2
+Our nonprofit rate disappeared on this renewal.,0
+Need to merge two org accounts into one profile.,2
+This was a waste of time.,4
+I feel ignored; no one reads the ticket details.,4
+Status page said green while we were offline.,4
+You promised a refund and nothing happened.,4
+The invoice shows the wrong plan tier.,0
+"The invoice includes an unknown ""processing"" surcharge.",0
+OneDrive attachments fail to upload.,1
+Password reset link says already used before I clicked it.,2
+Custom domain throws certificate warning.,1
+Billed during the supposed free trial window.,0
+We need an on-call rotation feature.,3
+The refund you promised has not posted.,0
+Payment went through but access was cut off.,0
+The app fails to connect over VPN.,1
+I keep getting a network error.,1
+The UI is confusing and slows us down.,4
+Create a read-only compliance/audit role.,3
+We feel like second-class customers after upgrading.,4
+Support keeps closing my ticket without solving it.,4
+Android push opens the wrong ticket thread.,1
+SMS 2FA codes never arrive to my phone number.,2
+Allow uploading custom sound for notifications.,3
+CC field drops addresses after saving.,1
+SAML login loops when third-party cookies blocked.,1
+Product quality has clearly regressed.,4
+Saving a ticket crashes the Android app.,1
+The account lockout timer doesn't reset.,2
+Today's tickets are missing.,1
+We need an itemized invoice for accounting.,0
+I need to merge two accounts into one.,2
+The app freezes when I switch tabs.,1
+The discount code was accepted but no discount applied.,0
+We want a dark mode for the web app.,3
+Need to rotate API tokens associated with my account.,2
+Queue wait times are excessive every morning.,4
+Profile avatar upload fails silently.,2
+Chrome hard-refresh is required to see updates.,1
+The reports page times out with 504.,1
+Include attachments when exporting ticket histories.,3
+The comment box won't accept emojis.,1
+Refund approvals take too long with no updates.,4
+Please consolidate multiple subscriptions into one bill.,0
+RTL layout support for Arabic and Hebrew.,3
+Service dropped twice today during business hours.,4
+Please add overdue ticket reminders.,3
+Please allow IP-based access restrictions.,3
+The uploader rejects PNG files.,1
+Status badge shows offline while on Wi‑Fi.,1
+Screen reader announces unlabeled buttons.,1
+Please remove an old workspace from my profile.,2
+macOS desktop app opens to a white window.,1
+We need itemized lines for tax audit purposes.,0
+Inbox shows perpetual spinner on Firefox ESR.,1
+I'm locked out after too many failed attempts.,2
+Our payment succeeded but the account still shows overdue.,0
+Allow multiple assignees per ticket.,3
+Remove SMS overage fee; we stayed within quota.,0
+Can you backdate this invoice to the purchase date?,0
+Roadmap shifts with zero transparency.,4
+The receipt email never arrived for last month.,0
+Settings page flashes JSON before rendering UI.,1
+PDF export produces blank pages.,1
+The export button vanished after the update.,1
+I lost access to the email tied to this account.,2
+The charge description on the statement is unfamiliar.,0
+The password reset link says it's already used.,2
+Billing address edits never save in the portal.,0
+Login form is case-sensitive; rejects uppercase email.,2
+The email verification link is broken.,2
+Full dark theme plus high-contrast accessibility mode.,3
+I regret upgrading; the product is unstable.,4
+Add billing-only admin role separate from workspace admin.,3
+The app quality has dropped noticeably.,4
+The chat widget will not open in Safari.,1
+Your platform is full of bugs.,4
+You charged me for a canceled seat pack.,0
+We need an API endpoint for ticket export.,3
+Dark mode toggle disappeared after update.,1
+Please switch this subscription back to monthly.,0
+Cannot revoke an old device from security settings.,2
+Export button vanished from the report toolbar.,1
+Allow fully customizable dashboards with drag-and-drop.,3
+Support keeps asking for the same screenshots.,4
+Locked out after too many attempts; please reset.,2
+Pinned filters don't persist between sessions.,1
+Promised credit from last month is missing.,0
+The password reset link says it was already used.,2
+Recovery email inbox is gone; need alternative proof.,2
